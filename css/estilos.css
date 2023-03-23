@@ -89,8 +89,13 @@ footer li{margin:10px 0px;}
         border-bottom: 1px solid #000;}
 .cort img{border-radius: 6px;
         box-shadow: 5px 5px 20px rgba(0,0,0,0.4);}
+video{max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.4);}
 .navbar-nav .nav-link:hover{background: #fff;} 
-
+.boton{color: #fff;background-color: #007bff; border-radius: 3px;padding: 5px;}
+.boton:hover{background-color: #0050a6;color: #fff;}
 
 
 
