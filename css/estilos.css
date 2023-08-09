@@ -1,7 +1,7 @@
 body{background: rgba(0, 0, 0, 0.900);}
 
 header{padding-top: 50px;}
-section{background: rgb(255 254 248);
+section{background: white;
          color:#000;
         border: 1px solid #fff;
         padding: 50px;
@@ -13,6 +13,12 @@ img{max-width: 100%;
   height: auto;
   
 }
+.Cursos{background: white;
+    color:#000;
+   border: 1px solid #fff;
+   padding: 50px;}
+.Cursos li{color: #000;}
+.Cursos li:hover{color: rgb(14, 112, 198);}
 .nosotros h2{ text-align: center;}
 .columna1{width: 50%;}
 .columna2{width: 50%;}
@@ -32,6 +38,9 @@ span{font-size: 30px;}
 .columna00{align-items: center;width: 50%;}
 .logo {width: 180px;}
 .cortes{margin: 30px 0px;}
+.Cursos li{margin:5px;}
+.Cursos a{color: #fff;}
+
 .cortesh,.servicios,.contacto{text-align: center;}
 main{background:#222;
      padding: 20px 0px;}
@@ -89,13 +98,13 @@ footer li{margin:10px 0px;}
         border-bottom: 1px solid #000;}
 .cort img{border-radius: 6px;
         box-shadow: 5px 5px 20px rgba(0,0,0,0.4);}
+.navbar-nav .nav-link:hover{background: #fff;} 
+.logo{border-color: #000; margin: 5px;max-height:250px; max-width:250px}
 video{max-width: 100%;
     height: auto;
     border-radius: 6px;
     box-shadow: 5px 5px 20px rgba(0,0,0,0.4);}
-.navbar-nav .nav-link:hover{background: #fff;} 
-.boton{color: #fff;background-color: #007bff; border-radius: 3px;padding: 5px;}
-.boton:hover{background-color: #0050a6;color: #fff;}
+.CuLink :hover{background: #fff;transition: 0,5s;}
 
 
 
